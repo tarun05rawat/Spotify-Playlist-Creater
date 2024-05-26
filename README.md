@@ -1,4 +1,4 @@
-                                            Billboard Top 100 to Spotify Playlist
+Billboard Top 100 to Spotify Playlist
 
 This Python program allows users to create a Spotify playlist based on the Billboard Top 100 chart for a user-specified week. Users input a date, and the program scrapes the Billboard website for the top songs of that week, then adds those songs to a new playlist on their Spotify account.
 
